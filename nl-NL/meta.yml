@@ -1,10 +1,10 @@
-title: Numbers instead of notes
+title: Getallen in plaats van noten
 hero_image: images/banner.png
-description: Instructions on using frequency numbers instead of notes in MicroPython when using picozero.
+description: Instructies voor het gebruik van frequentiewaarden in plaats van noten in MicroPython bij gebruik van picozero.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-03-10"
 steps:
   - 
-    title: Numbers instead of notes
+    title: Getallen in plaats van noten
